@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cebu Adventure</string>
+    <string name="here_in_cebu">Here In Cebu</string>
+    <string name="adventure">Adventure</string>
+    <string name="plan_your">Plan your</string>
+    <string name="explore">Explore</string>
+    <string name="todo">TODO</string>
+</resources>
